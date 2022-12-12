@@ -27,7 +27,7 @@ window.onscroll = function(){
         // console.log("Reached Section Three")
       spans.forEach((span) => {
         span.style.width = span.dataset.width;
-        span.style.transition = "3s all";
+        span.style.transition = "2s all";
       })
   }
   
