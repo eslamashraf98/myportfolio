@@ -147,3 +147,6 @@ window.onscroll = function(){
   }
  })();
 
+function myFunction() {
+  window.location.reload();
+}
